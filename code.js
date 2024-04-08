@@ -1,1 +1,4 @@
-alert()
+
+<script>
+ alert()
+</script>
