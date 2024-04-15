@@ -1,3 +1,3 @@
 (function() {
-  alert("OPENBUGBOUNTY");
+  alert(document.domain+" hacked by kariiem");
 })();
